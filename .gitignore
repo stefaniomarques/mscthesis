@@ -1,0 +1,28 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto
+/.quarto/
+*_files/
+*_cache/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# Data (raw data not versioned — see data/README.md)
+data/*.csv
+data/*.xlsx
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
